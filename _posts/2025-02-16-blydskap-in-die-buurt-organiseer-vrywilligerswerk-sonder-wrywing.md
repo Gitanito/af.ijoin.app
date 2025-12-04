@@ -4,6 +4,7 @@ title: Blydskap in die Buurt - Organiseer Vrywilligerswerk Sonder Wrywing
 subtitle: Kry Meer Hulp vir Jou Gemeenskapsprojekte - Die Maklike Manier
 tags: [Gemeenskapshulp, Event-Organisasie]
 author: ijoin.app
+language: af
 ---
 
 # Blydskap in die Buurt - Organiseer Vrywilligerswerk Sonder Wrywing

@@ -4,6 +4,7 @@ title: Hou op sukkel met skoolfunksie-uitnodigings
 subtitle: Die maklike manier om ouers se RSVP's en bydraes te bestuur
 tags: [gebeurtenisbeplanning, skoolfunksies]
 author: ijoin.app
+language: af
 ---
 # Hou op sukkel met skoolfunksie-uitnodigings
 

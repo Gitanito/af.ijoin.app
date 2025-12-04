@@ -4,6 +4,7 @@ title: Hou U Ondernemersbyeenkomste Vol Sonder Kopseer
 subtitle: Die Slimste Manier om Stamtafels en Netwerkgeleenthede te Organiseer
 tags: [Netwerkgeleenthede, Eventbestuur]
 author: ijoin.app
+language: af
 ---
 # Die Geheime Wapen vir Volgepakte Plaaslike Ondernemersbyeenkomste
 

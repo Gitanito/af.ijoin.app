@@ -4,6 +4,7 @@ title: Nooit Weer 'n WhatsApp Chaos - Organiseer Jou Vriende Blitsvinnig
 subtitle: Die maklikste manier om 'n laaste-minuut kuier of byeenkoms te beplan sonder registrasie
 tags: [geleentheidbeplanning, byeenkomsorganiseerder]
 author: ijoin.app
+language: af
 ---
 
 # Organiseer Jou Spontane Kuier - Maksimeer 'n Hoë Terugvoerkoers

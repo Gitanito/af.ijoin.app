@@ -4,6 +4,7 @@ title: Alumni-Byeenkomste sonder die Registrasie-Hoofpyn
 subtitle: Organiseer Stamtafels en Netwerkgeleenthede Makliker as Ooit
 tags: [alumni, geleentheidorganisasie]
 author: ijoin.app
+language: af
 ---
 # Alumni-Byeenkomste sonder die Registrasie-Hoofpyn
 

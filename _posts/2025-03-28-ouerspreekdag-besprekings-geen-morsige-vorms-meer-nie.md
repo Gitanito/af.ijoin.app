@@ -4,6 +4,7 @@ title: Ouerspreekdag Besprekings- Geen Morsige Vorms Meer Nie
 subtitle: Kry 100% Antwoorde vir Tydgleufbesprekings sonder Registrasie
 tags: [Ouerspreekdag, Gebeurtenisbeplanning]
 author: ijoin.app
+language: af
 ---
 
 # Vereenvoudig Ouerspreekdag Besprekings en Kry Onmiddellike Antwoorde

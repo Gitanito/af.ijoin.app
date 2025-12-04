@@ -4,6 +4,7 @@ title: Speelplekpret- Hoe om Groepsuitstappies Maklik te Reël
 subtitle: Beplan Spontane Speelafsprake Sonder die WhatsApp-Chaos
 tags: [Groepsuitstappies, Ouerskap]
 author: ijoin.app
+language: af
 ---
 # Speelplekpret- Hoe om Groepsuitstappies Maklik te Reël
 

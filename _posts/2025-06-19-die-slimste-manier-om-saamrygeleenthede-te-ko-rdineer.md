@@ -4,6 +4,7 @@ title: Die Slimste Manier om Saamrygeleenthede te Koördineer
 subtitle: Verhoog jou Sportspan of Klub se Deelname sonder die Groepklets Chaos
 tags: [Saamrygeleenthede, Event-Organisasie]
 author: ijoin.app
+language: af
 ---
 
 # Geen Chaos Meer nie- Organiseer Saamrygeleenthede soos 'n Pro

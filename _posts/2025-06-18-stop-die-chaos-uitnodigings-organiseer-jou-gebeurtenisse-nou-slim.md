@@ -4,6 +4,7 @@ title: Stop die Chaos-Uitnodigings- Organiseer Jou Gebeurtenisse Nou Slim
 subtitle: Die gratis manier om jou gaste te laat RSVP sonder registrasie of moeite
 tags: [geleentheidbeplanning, RSVP-instrument]
 author: ijoin.app
+language: af
 ---
 
 # Stop die Chaos-Uitnodigings- Organiseer Jou Gebeurtenisse Nou Slim

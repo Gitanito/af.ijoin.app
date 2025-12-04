@@ -4,6 +4,7 @@ title: Die Slimste Manier om Vinnig en Maklik Gebruikers Terugvoer te Kry
 subtitle: Organiseer jou Produk Terugvoersessie sonder Registrasie of Kompleksiteit
 tags: [Produkterugvoer, Gebeurtenisorganisasie]
 author: ijoin.app
+language: af
 ---
 
 # Die Eenvoudige Pad na Vinnige Gebruikers Terugvoer vir Jou Nuwe Produk

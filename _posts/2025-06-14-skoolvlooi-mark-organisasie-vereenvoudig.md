@@ -4,6 +4,7 @@ title: Skoolvlooi-Mark-Organisasie Vereenvoudig
 subtitle: Kry Maklik Vrywilligers Vir Jou Volgende Skolevent
 tags: [Skoolvlooi, Vrywilligerskoördinering]
 author: ijoin.app
+language: af
 ---
 # Stop Die Chaos - Perfekte Vrywilligerskoördinering Vir Jou Skoolprojek
 

@@ -4,6 +4,7 @@ title: Publieke Kykpartytjie-Organisasie sonder die Hoofpyn
 subtitle: Maksimeer jou bywoningsyfer en geniet die wedstryd- Die maklike manier om almal bymekaar te kry
 tags: [Publieke Kykpartytjie, Event-Organisasie]
 author: ijoin.app
+language: af
 ---
 
 # Publieke Kykpartytjie-Organisasie sonder die Hoofpyn

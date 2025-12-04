@@ -4,6 +4,7 @@ title: Die Geheime Wapen vir Eksklusiewe Pop-up Diners
 subtitle: Hoe om jou gaste moeiteloos te laat RSVP vir jou volgende geheime geleentheid
 tags: [Event-Organisasie, Pop-up-Diners]
 author: ijoin.app
+language: af
 ---
 # Die Geheime Wapen vir Eksklusiewe Pop-up Diners
 

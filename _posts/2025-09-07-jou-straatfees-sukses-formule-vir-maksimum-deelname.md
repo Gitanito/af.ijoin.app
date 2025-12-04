@@ -4,6 +4,7 @@ title: Jou Straatfees-Sukses- Formule vir Maksimum Deelname
 subtitle: Organiseer die perfekte buurtbyeenkoms sonder die aanmeld-hoofpyn
 tags: [Straatfees, Gebeurtenisbeplanning]
 author: ijoin.app
+language: af
 ---
 # Jou Straatfees-Sukses- Formule vir Maksimum Deelname
 

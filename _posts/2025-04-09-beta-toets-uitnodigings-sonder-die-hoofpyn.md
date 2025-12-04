@@ -4,6 +4,7 @@ title: Beta-Toets Uitnodigings Sonder die Hoofpyn
 subtitle: Maksimeer jou terugvoer met moeitelose geleentheidbeplanning
 tags: [Beta-Toets, Geleentheidbeplanning]
 author: ijoin.app
+language: af
 ---
 # Kry Meer Beta-Toetsers- Jou Uitnodiging, Vereenvoudig
 

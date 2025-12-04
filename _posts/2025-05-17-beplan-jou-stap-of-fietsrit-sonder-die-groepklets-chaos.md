@@ -4,6 +4,7 @@ title: Beplan Jou Stap- of Fietsrit Sonder die Groepklets Chaos
 subtitle: Kry Maksimum Deelname vir Jou Volgende Toer-avontuur
 tags: [Event-organisasie, Stapgroep]
 author: ijoin.app
+language: af
 ---
 
 # Kry Maksimum Deelname vir Jou Volgende Stap- of Fietsrit

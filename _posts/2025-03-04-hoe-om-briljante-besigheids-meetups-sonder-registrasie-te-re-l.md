@@ -4,6 +4,7 @@ title: Hoe om Briljante Besigheids-Meetups Sonder Registrasie te Reël
 subtitle: Maksimeer Netwerkbywoning met die Eenvoudigste Aanmeldproses
 tags: besigheidsnetwerke, eventorganisasie
 author: ijoin.app
+language: af
 ---
 # Die Sleutel tot Doeltreffende Branchen-Meetups en Netwerkgeleenthede
 

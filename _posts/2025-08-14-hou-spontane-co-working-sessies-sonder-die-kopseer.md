@@ -4,6 +4,7 @@ title: Hou Spontane Co-Working Sessies Sonder die Kopseer
 subtitle: Die maklikste manier om jou mede-vryskutters bymekaar te kry
 tags: [Co-Working, Event Organisasie]
 author: ijoin.app
+language: af
 ---
 
 # Hou Spontane Co-Working Sessies Sonder die Kopseer

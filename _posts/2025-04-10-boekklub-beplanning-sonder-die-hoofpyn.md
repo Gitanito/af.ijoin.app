@@ -4,6 +4,7 @@ title: Boekklub Beplanning Sonder Die Hoofpyn
 subtitle: Maksimeer RSVP's Vir Jou Wekelijkse Boekklub Met Een Enkele Skakel
 tags: [Boekklub, Event-Organisasie]
 author: ijoin.app
+language: af
 ---
 # Boekklub Beplanning Sonder Die Hoofpyn- Die Eenvoudige Manier
 

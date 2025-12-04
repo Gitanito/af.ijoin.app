@@ -4,6 +4,7 @@ title: Kry Maksimum Aanmelding vir Jou Töpferkursus - Sonder Registrasie Stres
 subtitle: Hoe ijoin.app jou help om meer studente vir jou kreatiewe werkswinkels te trek
 tags: [Töpferkursus, Event Organisasie]
 author: ijoin.app
+language: af
 ---
 
 # Kry Maksimum Aanmelding vir Jou Töpferkursus - Sonder Registrasie Stres

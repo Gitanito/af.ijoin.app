@@ -4,6 +4,7 @@ title: Die Perfekte Braai-Beplanning- Nooit Weer Chaos
 subtitle: Organiseer Jou Spontane Geleenthede Sonder Die Hoofpyn
 tags: [geleentheidbeplanning, braai-organisasie]
 author: ijoin.app
+language: af
 ---
 # Die Perfekte Braai-Beplanning- Nooit Weer Chaos
 

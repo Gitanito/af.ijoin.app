@@ -4,6 +4,7 @@ title: Sportspanne Organiseer- Nie Meer Chaos by Oefeninge Nie
 subtitle: Maksimeer Teenwoordigheid sonder die Kopseer van Registrasies
 tags: [Sportspanbestuur, Gebeurtenisbeplanning]
 author: ijoin.app
+language: af
 ---
 # Sportspanne Organiseer- Nie Meer Chaos by Oefeninge Nie
 

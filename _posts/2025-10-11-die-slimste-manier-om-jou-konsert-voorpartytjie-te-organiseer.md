@@ -4,6 +4,7 @@ title: Die Slimste Manier om Jou Konsert-Voorpartytjie te Organiseer
 subtitle: Kry Maksimum RSVP's met Nul Moeite - So Eenvoudig Soos 'n Deel Knoppie
 tags: [geleentheidsbeplanning, RSVP]
 author: ijoin.app
+language: af
 ---
 # Die Slimste Manier om Jou Konsert-Voorpartytjie te Organiseer
 

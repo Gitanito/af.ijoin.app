@@ -4,6 +4,7 @@ title: Hou Op Sukkel- Organiseer Jou Skill-Share Sessies Maklik
 subtitle: Die gratis manier om jou gemeenskap- en leergeleenthede te bestuur
 tags: [Event-Organisasie, Skill-Share]
 author: ijoin.app
+language: af
 ---
 # Hou Op Sukkel- Organiseer Jou Skill-Share Sessies Maklik
 

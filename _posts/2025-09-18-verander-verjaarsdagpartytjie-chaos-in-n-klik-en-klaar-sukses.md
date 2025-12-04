@@ -5,6 +5,7 @@ title: Verander Verjaarsdagpartytjie Chaos in 'n Klik-en-Klaar Sukses
 subtitle: Die maklikste manier om ouers se RSVP's te kry- sonder enige moeite
 tags: [geleentheidsbeplanning, RSVP]
 author: ijoin.app
+language: af
 ---
 # Verander Verjaarsdagpartytjie Chaos in 'n Klik-en-Klaar Sukses
 

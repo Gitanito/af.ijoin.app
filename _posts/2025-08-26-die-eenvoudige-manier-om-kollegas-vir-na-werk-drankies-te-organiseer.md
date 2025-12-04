@@ -4,6 +4,7 @@ title: Die Eenvoudige Manier om Kollegas vir Na-Werk Drankies te Organiseer
 subtitle: Kry Meer Ja's en Minder Kopseer met jou Volgende Spanuitstappie
 tags: [Event-organisasie, Na-werk-drankies]
 author: ijoin.app
+language: af
 ---
 
 # Kry Mense Saam vir Na-Werk Drankies - Sonder die Drama

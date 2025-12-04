@@ -4,6 +4,7 @@ title: Jou Kreatiewe Werkswinkel-Sukses - Sonder Registrasie-Stres
 subtitle: Maksimeer Deelname aan Jou Kunswerkswinkel of Klas
 tags: [Event Organisasie, Werkswinkel Bestuur]
 author: ijoin.app
+language: af
 ---
 # Jou Kreatiewe Werkswinkel-Sukses - Sonder Registrasie-Stres
 

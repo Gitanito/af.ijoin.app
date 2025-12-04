@@ -5,6 +5,7 @@ title: Hoe Jou Gemeenskapsgeleentheid Maklik Vol Bespreek Word
 subtitle: Maksimeer RSVP's vir Lesings en Temas-aande sonder Registrasie
 tags: [geleentheidbestuur, gemeenskapsbetrokkenheid]
 author: ijoin.app
+language: af
 ---
 # Hoe Jou Gemeenskapsgeleentheid Maklik Vol Bespreek Word
 

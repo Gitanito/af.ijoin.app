@@ -4,6 +4,7 @@ title: Stop die Chaos met Skooluitstappies- Vergemaklik Vervoer
 subtitle: Die maklikste manier om karpoele vir enige groepsuitstappie te koördineer
 tags: [gebeurtenisbeplanning, vervoerkoordinering]
 author: ijoin.app
+language: af
 ---
 # Stop die Chaos met Skooluitstappies- Vergemaklik Vervoer
 

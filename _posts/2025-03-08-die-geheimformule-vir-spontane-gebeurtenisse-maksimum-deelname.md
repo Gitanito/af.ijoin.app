@@ -4,6 +4,7 @@ title: Die Geheimformule vir Spontane Gebeurtenisse- Maksimum Deelname
 subtitle: Organiseer 'n suksesvolle park-piekniek of flashmob sonder die drama
 tags: [Event Organisasie, Spontane Gebeurtenisse]
 author: ijoin.app
+language: af
 ---
 # Stop Stres- Organiseer Spontane Gebeurtenisse Soos 'n Pro
 

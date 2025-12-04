@@ -4,6 +4,7 @@ title: Kryg Jou Studiegroep In 'n Japtrap Reg
 subtitle: Die Maklikste Manier om Studente vir 'n Eksamensessie te Organiseer
 tags: [studiegroep, eksamenorganisasie]
 author: ijoin.app
+language: af
 ---
 # Kryg Jou Studiegroep In 'n Japtrap Reg
 
